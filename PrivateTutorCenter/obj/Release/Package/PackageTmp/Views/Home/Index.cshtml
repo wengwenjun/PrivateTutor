@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Private Tutor Center</h1>
+    <p class="lead">Private Tutor Center is an application created to show my ASP.NET skills. </p>
+
+    @using (Html.BeginForm("Courses", "Home", FormMethod.Get))
+    {
+        <button type="submit" class="btn btn-lg btn-info">Look up classes</button>
+    }
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>Student getting started</h2>
+        <img src="~/Content/Pics/student.jpg" class="img-rounded" alt="student image" width="400" height="225" />
+        <p>
+            Instructions to enroll your own courses.
+        </p>
+        <p><a class="btn btn-default" href="/Home/StudentInstruction">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-6">
+        <h2>Teacher getting started</h2>
+        <img src="~/Content/Pics/teac.jpg" class="img-rounded" alt="teacher image" width="400" height="225"/>
+        <p>Instructions to create your own courses</p>
+        <p><a class="btn btn-default" href="/Home/TeacherInstruction">Learn more &raquo;</a></p>
+    </div>
+</div>

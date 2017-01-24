@@ -1,0 +1,270 @@
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\ApplicationInsights.config
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\csc.exe
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\vbc.exe
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\PrivateTutorCenter.dll.config
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\PrivateTutorCenter.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\PrivateTutorCenter.pdb
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Antlr3.Runtime.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\EntityFramework.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AI.Web.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Newtonsoft.Json.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Owin.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Helpers.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Http.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Http.Owin.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Mvc.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Optimization.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Razor.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.WebPages.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.WebPages.Razor.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\WebGrease.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AI.Web.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Http.Owin.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Helpers.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Mvc.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Optimization.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Razor.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.WebPages.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.WebPages.Razor.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Antlr3.Runtime.pdb
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Newtonsoft.Json.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Http.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\EntityFramework.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\obj\Release\PrivateTutorCenter.csprojResolveAssemblyReference.cache
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\obj\Release\PrivateTutorCenter.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - Copy\PrivateTutorCenter\obj\Release\PrivateTutorCenter.pdb
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\ApplicationInsights.config
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\csc.exe
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\vbc.exe
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\PrivateTutorCenter.dll.config
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\PrivateTutorCenter.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\PrivateTutorCenter.pdb
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Antlr3.Runtime.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\EntityFramework.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.Web.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Newtonsoft.Json.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Owin.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Helpers.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.Owin.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Mvc.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Optimization.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Razor.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.Razor.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\WebGrease.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.Web.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.Owin.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Helpers.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Mvc.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Optimization.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Razor.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.Razor.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Antlr3.Runtime.pdb
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Newtonsoft.Json.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\EntityFramework.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\obj\Release\PrivateTutorCenter.csprojResolveAssemblyReference.cache
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\obj\Release\PrivateTutorCenter.dll
+C:\Users\nagakun\Desktop\school\ECT 583\PrivateTutorCenter - revised\PrivateTutorCenter\obj\Release\PrivateTutorCenter.pdb
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\ApplicationInsights.config
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\csc.exe
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\vbc.exe
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\VBCSCompiler.exe
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\PrivateTutorCenter.dll.config
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\PrivateTutorCenter.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\PrivateTutorCenter.pdb
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Antlr3.Runtime.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\EntityFramework.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\EntityFramework.SqlServer.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.Web.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.ApplicationInsights.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Google.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Web.Infrastructure.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Newtonsoft.Json.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Owin.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Net.Http.Formatting.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Helpers.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.Owin.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.WebHost.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Mvc.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Optimization.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Razor.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.Deployment.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.Razor.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\WebGrease.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.Web.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.ApplicationInsights.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.Owin.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Helpers.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Mvc.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Optimization.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Razor.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.Deployment.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.WebPages.Razor.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Antlr3.Runtime.pdb
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Newtonsoft.Json.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Net.Http.Formatting.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\System.Web.Http.WebHost.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\EntityFramework.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\EntityFramework.SqlServer.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Google.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\obj\Release\PrivateTutorCenter.csprojResolveAssemblyReference.cache
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\obj\Release\PrivateTutorCenter.dll
+C:\PrivateTutorCenter - revised\PrivateTutorCenter - revised\PrivateTutorCenter\obj\Release\PrivateTutorCenter.pdb

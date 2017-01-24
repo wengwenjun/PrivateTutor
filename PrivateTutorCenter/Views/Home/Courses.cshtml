@@ -1,0 +1,181 @@
+﻿@model PrivateTutorCenter.Models.View_Model.EditableCourse
+@{
+    ViewBag.Title = "Courses";
+}
+
+<br />
+<br />
+<h2>@ViewBag.Message</h2>
+<fieldset class="form-group">
+    <label> Please select class subject: </label>
+
+    <select id="list" class="form-control">
+        <option value="getAll">-- select subject --</option>
+        <option value="CS">Computer Science</option>
+        <option value="Math">Mathematics</option>
+        <option value="Eng">English</option>
+    </select>
+</fieldset>
+
+<div id="CoursesContainer">
+
+</div>
+
+<!-- Button trigger modal -->
+
+@if (this.User.IsInRole("Teacher"))
+{
+<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#AddModal">Add Course</button>
+}
+<!-- Modal -->
+<div class="modal fade" id="AddModal" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Add New Course</h4>
+            </div>
+            <div class="modal-body">
+                @using (Ajax.BeginForm("", "api/PrivateTutor/", new AjaxOptions { HttpMethod = "Post", OnSuccess = "$('#AddModal').modal('hide');", OnFailure = "alert('An Error occured, please try again.');" }))
+                {
+                    <fieldset class="form-group">
+                        <label for="Title">Title</label>
+                        @Html.TextBoxFor(m => m.title, new { @class = "form-control" })
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="Description">Description</label>
+                        @Html.TextAreaFor(m => m.description, new { @class = "form-control" })
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="Subject">Subject</label>
+                        @Html.DropDownListFor(m => m.subject, Model.subjects, "- Category -", new { @class = "form-control" })
+                    </fieldset>
+                    <br/>
+
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="EditModal" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Edit Existing Product</h4>
+            </div>
+            <div class="modal-body">
+                @using (Ajax.BeginForm("", "api/PrivateTutor/", new AjaxOptions { HttpMethod = "Post", OnSuccess = "$('#EditModal').modal('hide');", OnFailure = "alert('An Error occured, please try again.');" }))
+                {
+                    <fieldset class="form-group">
+                        @Html.HiddenFor(t => t.id)
+                        <label for="Title">Title</label>
+                        @Html.TextBoxFor(m => m.title, new { @class = "form-control" })
+                    </fieldset>
+
+                    <fildset class="form-group">
+                        <label for="Description">Description</label>
+                        @Html.TextAreaFor(m => m.description, new { @class = "form-control" })
+                    </fildset>
+
+                    <fildset class="form-group">
+                        <label for="Subject">Subject</label>
+                        @Html.DropDownListFor(m => m.subject, Model.subjects, "- Category -", new { @class = "form-control" })
+                    </fildset>
+                    <br />
+
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts
+{
+    <script type="text/javascript">
+        /*function getData() {
+            $("#CoursesContainer").empty();
+            var category = document.getElementById('list').value;
+            loadDefaultView(category);
+        }*/
+
+        $(document).ready(function () {
+            loadDefaultView("-- select category --");
+
+            $("#AddModal").on("hidden.bs.modal", function () {
+                var selectedCategory = $("#list").text();
+                loadDefaultView(selectedCategory);
+            })
+
+            $("#EditModal").on("hidden.bs.modal", function () {
+                var selectedCategory = $("#list").text();
+                loadDefaultView(selectedCategory);
+            })
+        });
+
+        function loadDefaultView(categoryText) {
+            $("#CoursesContainer").empty();
+            $("#list option:contains(" + categoryText + ")").attr('selected', 'selected');
+            var categoryVal = $("#list option:selected").val();
+            $.getJSON("/api/PrivateTutor/", { selectedCategory: categoryVal }, function (data) {
+                $.each(data, function (i, course) {
+                    $("#CoursesContainer").append("<div id='" + course.id + "' class='panel panel-default'><div class='panel-heading'><h3 class='panel-title'>" + course.title + "</h3></div><div class='panel-body'>" + course.description + "</div><div></div></div>");
+                    if (course.canEnroll) {
+                        $("#" + course.id + " div:nth-child(2)").append("<span style='float:right;'><a class='btn btn-info' href='/Home/InitiateCreditTransaction?courseId=" + course.id +"'> Enroll</a></span>");
+                    }
+                    if (course.isEditable) {
+
+                        $("#" + course.id + " div:nth-child(2)").append("<span style='float:right;'><a class='btn btn-danger' href='javascript:deleteCourse(" + course.id + ");'> Delete</a></span>");
+
+                        $("#" + course.id + " div:nth-child(2)").append("<span style='float:right;'><a class='btn btn-success' href='javascript:editCourse(" + course.id + ");'> Edit</a></span>");
+                    }
+
+                });
+            });
+        }
+
+          $("#list").click(function () {
+            $("#CoursesContainer").empty();
+            var category = $("#list option:selected").val();
+            loadDefaultView(category);
+        });
+
+        function deleteCourse(id) {
+            $.ajax({
+                url: '/api/PrivateTutor/' + id,
+                type: 'DELETE',
+                success: function (result) {
+                    var selectedCategory = $("#list option:selected").val();
+                    loadDefaultView(selectedCategory);
+                },
+                error: function (result) {
+                    alert("unable to delete Product.")
+                }
+            });
+        }
+
+        function editCourse(id) {
+            $.ajax({
+                url: '/api/PrivateTutor/' + id,
+                type: 'GET',
+                success: function (result) {
+                    $('#EditModal').find('#id').val(result.id);
+                    $('#EditModal').find('#title').val(result.title);
+                    $('#EditModal').find('#description').val(result.description);
+                    $('#EditModal').find('#subject').val(result.subject);
+                    $('#EditModal').modal('show');
+                },
+                error: function (result) {
+                    alert("unable to load Product.")
+                }
+            });
+        }
+
+    </script>
+}
