@@ -1,5 +1,5 @@
 
-# web technologies:
+# WEB TECHNOLOGIES:
 1.ASP.NET MVC5
 2.Web Api
 3.SQL Server
@@ -10,14 +10,15 @@
 8.Entity Framework
 9.Redis for caching data to increase performance
 10.Payment through a credit card service
+11.Oauth through facebook(still working on it)
 
-#main function:
-#student:
+#MAIN FUNCTION:
+#Student:
 1.Look up all classes without register or login in
 2.Register and login in as a student
 3.Enroll courses
 4.Pay and ready to enjoy your courses
-#teacher:
+#Teacher:
 1.Look up all classes without register or login in
 2.Register and login in as a teacher
 3.Add and edit your own courses
