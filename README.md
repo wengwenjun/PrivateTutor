@@ -1,5 +1,5 @@
 
-### web technologies:
+# web technologies:
 ASP.NET MVC5
 Web Api
 SQL Server
@@ -11,7 +11,7 @@ Entity Framework
 Redis for caching data to increase performance
 Payment through a credit card service
 
-### main function:
+#main function:
 #student:
 Look up all classes without register or login in
 Register and login in as a student
