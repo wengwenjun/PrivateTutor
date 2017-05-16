@@ -1,28 +1,28 @@
 
 # WEB TECHNOLOGIES:
-⋅⋅*ASP.NET MVC5
-⋅⋅*Web Api
-⋅⋅*SQL Server
-⋅⋅*Azure Hosted
-⋅⋅*Jquery
-⋅⋅*Bootsrap
-⋅⋅*Razor
-⋅⋅*Entity Framework
-⋅⋅*Redis for caching data to increase performance
-⋅⋅*Payment through a credit card service
-⋅⋅*Oauth through facebook(still working on it)
+⋅⋅* ASP.NET MVC5
+⋅⋅* Web Api
+⋅⋅* SQL Server
+⋅⋅* Azure Hosted
+⋅⋅* Jquery
+⋅⋅* Bootsrap
+⋅⋅* Razor
+⋅⋅* Entity Framework
+⋅⋅* Redis for caching data to increase performance
+⋅⋅* Payment through a credit card service
+⋅⋅* Oauth through facebook(still working on it)
 
 # MAIN FUNCTION:
 # Student:
-⋅⋅*Look up all classes without register or login in
-⋅⋅*Register and login in as a student
-⋅⋅*Enroll courses
+⋅⋅* Look up all classes without register or login in
+⋅⋅* Register and login in as a student
+⋅⋅* Enroll courses
 ⋅⋅*Pay and ready to enjoy your courses
 # Teacher:
-⋅⋅*Look up all classes without register or login in
-⋅⋅*Register and login in as a teacher
-⋅⋅*Add and edit your own courses
-⋅⋅*Look up other teachers’ courses
+⋅⋅* Look up all classes without register or login in
+⋅⋅* Register and login in as a teacher
+⋅⋅* Add and edit your own courses
+⋅⋅* Look up other teachers’ courses
 ### Home Page
 ![alt text](https://github.com/wengwenjun/PrivateTutor/blob/master/Home%20Page.png)
 ### Student Enroll Class
