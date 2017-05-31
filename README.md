@@ -24,10 +24,10 @@ Host: http://rebeccatutoringcenter.azurewebsites.net
 ⋅⋅* Add and edit your own courses
 ⋅⋅* Look up other teachers’ courses
 ### Home Page
-![alt text](https://github.com/wengwenjun/PrivateTutor/blob/master/Home%20Page.png)
+ <img src="https://github.com/wengwenjun/PrivateTutor/blob/master/Home%20Page.png" height="400" width="300">
 ### Student Enroll Class
-![alt text](https://github.com/wengwenjun/PrivateTutor/blob/master/Student%20Enroll%20Course.png)
+ <img src="https://github.com/wengwenjun/PrivateTutor/blob/master/Student%20Enroll%20Course.png" height="400" width="300">
 ### Teacher Add Course
-![alt text](https://github.com/wengwenjun/PrivateTutor/blob/master/Teacher%20Add%20Course.png)
+ <img src="https://github.com/wengwenjun/PrivateTutor/blob/master/Teacher%20Add%20Course.png" height="400" width="300">
 ### Teacher Edit Course
-![alt text](https://github.com/wengwenjun/PrivateTutor/blob/master/Teacher%20Edit%20Course.png)
+ <img src="https://github.com/wengwenjun/PrivateTutor/blob/master/Teacher%20Edit%20Course.png" height="400" width="300">
